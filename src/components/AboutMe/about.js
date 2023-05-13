@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import profilePic from "./alaska-profile-pic.png";
 const aboutMe = () => {
   return (
     <div>
@@ -6,9 +7,9 @@ const aboutMe = () => {
       <div id="about-me-section">
         <div>
           <img
-            src="https://avatars.githubusercontent.com/u/77647073?v=4"
+            src={profilePic}
             alt="Jacob Zea"
-            id="about-me-img"
+            className='profile-pic'
           />
         </div>
         <div id="about-me-bio">

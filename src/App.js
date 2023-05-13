@@ -2,11 +2,10 @@
 import './App.css';
 // import NavBar from './components/nav';
 // import Header from './components/header';
-import AboutMe from './components/about';
+import AboutMe from './components/AboutMe/about';
 // import Projects from './components/projects';
 // import Contact from './components/contact';
-// import Footer from './components/footer';
-
+import Footer from './components/Footer/footer'
 function App() {
   return (
     <div className="App">
@@ -15,7 +14,7 @@ function App() {
       <AboutMe/>
       {/* <Projects/> */}
       {/* <Contact/> */}
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
