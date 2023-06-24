@@ -12,7 +12,7 @@ function Portfolio() {
       repo: "https://github.com/JacobZ96/movie-tracker"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'pwa',
       description: 'PWA Text Editor',
       link: "https://github.com/JacobZ96/pwa-text-editor",
       repo: "https://github.com/JacobZ96/pwa-text-editor"
@@ -24,9 +24,9 @@ function Portfolio() {
       repo: "https://github.com/JacobZ96/work-day-scheduler"
     },
     {
-      name: 'led-wall',
+      name: 'eat-speak-love',
       description: 'Forum for people with Dysphagia',
-      link: "https://github.com",
+      link: "http://immense-everglades-77302.herokuapp.com/",
       repo: "https://github.com/nlewis742/eat-speak-love"
     },
     {
