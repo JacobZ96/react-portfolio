@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JacobZ96.gitbub.io/react-portfolio",
+  "homepage": "https://JacobZ96.github.io/react-portfolio",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^16.13.1",

@@ -24,7 +24,7 @@ This app is used to showcase my work as a web developer.
 ![ScreenShot](./src/assets/ProfilePic/portfolio.png)
 
 ## Link to Deployed App
-https://JacobZ96.gitbub.io/react-portfolio
+https://JacobZ96.github.io/react-portfolio
 
 ## Questions
 If you have any questing please contact me at jacobzea96@gmail.com, and you can find more of my work at https://github.com/JacobZ96. 
